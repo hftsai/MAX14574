@@ -3,6 +3,7 @@ This is driver for MAX14574 chip with I2C bus
 
 ## Developer:
 ssriblo
+
 hftsai
 
 
